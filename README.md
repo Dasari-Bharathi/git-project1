@@ -1,0 +1,1 @@
+Semantic awareness searching over encrypted data by using cloud computing
